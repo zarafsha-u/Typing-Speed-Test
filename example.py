@@ -1,0 +1,8 @@
+paragraphs = [
+    "Many touch typists also use keyboard shortcuts or hotkeys when typing on a computer This allows them to edit their document without having to take their hands off the keyboard to use a mouse An example of a keyboard shortcut is pressing the Ctrl key plus the S key to save a document as they type or the Ctrl key plus the Z key to undo a mistake Many experienced typists can feel or sense when they have made an error and can hit the Backspace key and make the correction with no increase in time between keystrokes ",
+    "Hunt and peck also known as Eagle Finger is a common form of typing in which the typist presses each key individually  Instead of relying on the memorized position of keys the typist must find each key by sight  Use of this method may also prevent the typist from being able to see what has been typed without glancing away from the keys  Although good accuracy may be achieved any typing errors that are made may not be noticed immediately due to the user not looking at the screen  There is also the disadvantage that because fewer fingers are used those that are used are forced to move a much greater distance ",
+    'Words per minute is a measure of typing speed commonly used in recruitment  For the purposes of wpm measurement a word is standardized to five characters or keystrokes  Therefore brown counts as one word but accounted counts as two  The benefits of a standardized measurement of input speed are that it enables comparison across language and hardware boundaries  The speed of an Afrikaans-speaking operator in Cape Town can be compared with a French-speaking operator in Paris'
+
+
+
+]
